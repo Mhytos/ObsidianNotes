@@ -1,3 +1,14 @@
+![[Pasted image 20240919132910.png]]
+*here a little overview of protocols in general*
+![[Pasted image 20240919135615.png]]
+*here we see the OSI Model in action (I think)*
+*going to get the higher quality version of this pic*
+*red is pc to pc*
+*blue is a lvl 2 switch*
+*green is a lvl 3 switch/ router*
+___
+# OSI 
+
 The OSI (Open Systems Interconnection) Model is a conceptual framework used to understand and implement network protocols in seven distinct layers. Each layer serves specific functions and communicates with the layers directly above and below it.
 
 1. **Layer 1: Physical Layer**
@@ -44,3 +55,6 @@ The OSI (Open Systems Interconnection) Model is a conceptual framework used to u
 3. **Wikipedia - OSI Model**: General information on the OSI model structure and layers.
     
     - [Wikipedia OSI Model](https://en.wikipedia.org/wiki/OSI_model)
+
+---
+OSI Model hat 7 Layer

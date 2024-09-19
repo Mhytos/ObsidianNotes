@@ -27,3 +27,9 @@
     
 3. **Ring Topology**: Devices are connected in a circular format. Data travels in one direction; failure in one link affects the whole network.
 ___
+![[Pasted image 20240919112019.png]]
+
+![[Pasted image 20240919112624.png]]
+
+![[Pasted image 20240919112741.png]]
+

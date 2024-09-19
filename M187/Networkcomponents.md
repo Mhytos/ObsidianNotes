@@ -2,6 +2,7 @@
 [[Netzwerkkonzepte]]
 
 ---
+![[Pasted image 20240919133329.png]]
 1. **Repeater**:
     
     - **Functionality**: Amplifies and regenerates signals to extend the range of a network.

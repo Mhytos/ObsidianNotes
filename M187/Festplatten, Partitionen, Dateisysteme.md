@@ -80,3 +80,6 @@ Understanding the properties and differences of hard drives, partitions, and fil
 By aligning the storage medium, partitioning scheme, and file system with the specific requirements of the use case, optimal performance and functionality can be achieved
 
 ![[Pasted image 20240918130902.png]]
+
+---
+# Partitioning our system
