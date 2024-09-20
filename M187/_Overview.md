@@ -12,4 +12,9 @@
 2C [[Netzwerkkonzepte]]
 2D [[Networkcomponents|Netzwerkkomponenten]]
 2F [[OSI Model]]
-
+# Day 3
+![[Pasted image 20240920081356.png]]
+3A [[ICT-System Hardwarekomponenten]]
+3B [[ICT-System Peripherie]]
+3C [[Evaluate Components]]
+3D [[Evaluate ICT-Systems]]

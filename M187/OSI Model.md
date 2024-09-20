@@ -57,4 +57,3 @@ The OSI (Open Systems Interconnection) Model is a conceptual framework used to u
     - [Wikipedia OSI Model](https://en.wikipedia.org/wiki/OSI_model)
 
 ---
-OSI Model hat 7 Layer

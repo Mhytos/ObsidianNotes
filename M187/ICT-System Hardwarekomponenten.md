@@ -1,0 +1,21 @@
+- **Processor (CPU):** The brain of the computer, responsible for executing instructions and processing data.
+	- Intel - AMD
+	- Eingeteilt in "Cores" (Recheneinheiten)
+		- Cores erlauben es mehrere Tasks parallel zu erledigen
+- **Chipset:** Manages data flow between the processor, memory, and [[ICT-System Peripherie|Peripherals]].
+- **RAM (Random Access Memory):** Temporary storage for data that is actively being used or processed by the CPU.
+	- flüchtiger Speicher, kann ohne Strom keine Daten halten
+- **[[Festplatten, Partitionen, Dateisysteme|Mass Storage]](HDD/SSD):** Permanent storage for operating systems, applications, and user data.
+	- nicht flüchtige Speichermedien
+- **Interfaces:** Ports and connections (USB, HDMI, etc.) that allow external devices to communicate with the computer.
+	- USB-A/C
+	- Bluetooth
+	- Thunderbolt
+	- HDMI/DP
+- **Specialized Notebook Features:** Components unique to notebooks, such as integrated graphics, battery management, and compact design considerations.
+	- integrated keyboard, trackpad, display
+	- Display from 13-17 inch
+	- portable 
+	- ?Touch/ Pen
+---
+![[Pasted image 20240920092204.png]]
