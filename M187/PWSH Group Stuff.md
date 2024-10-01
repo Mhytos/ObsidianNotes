@@ -6,4 +6,3 @@
 ```bash
 net localgroup "Users" "<username>" /add
 ```
-	

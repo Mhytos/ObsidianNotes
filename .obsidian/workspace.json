@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "6fa86f37f1669342",
+    "type": "split",
+    "children": [
+      {
+        "id": "6603b39e747954d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12365adc73571386",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ABU/Reflexion Film 'Radical'.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e049e46862a88c3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ABU/Eigene Werte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "866309a3a0eed285",
+    "type": "split",
+    "children": [
+      {
+        "id": "091fb7f5c40fc63e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48eca4b242d5602b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd14385077da5640",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c31754ec6a31345",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "413c74c61bccabc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e808a019236383cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "780a230c8ed3522b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ABU/Eigene Werte.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b0919df71e339d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ABU/Eigene Werte.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7bae8105a4503846",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bcfad4152351f063",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ABU/Eigene Werte.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "e049e46862a88c3c",
+  "lastOpenFiles": [
+    "ABU/Infos.md",
+    "ABU/Eigene Werte.md",
+    "M320/Preparing for Lessons.md",
+    "ABU/Reflexion Film 'Radical'.md",
+    "M231/Datenschutz und Datensicherheit.md",
+    "M187/_Overview.md",
+    "M293/Day 1.md",
+    "ABU/RollenStuff.md",
+    "ABU/stiller Dialog.md",
+    "ABU/KI und Wissen.md",
+    "M187/Festplatten, Partitionen, Dateisysteme.md",
+    "M187/OSI Model.md",
+    "M187/Networkcomponents.md",
+    "M187/Kabel.md",
+    "M187/Differences of the OS.md",
+    "M320/Object oriented programming.md",
+    "M187/Evaluate ICT-Systems.md",
+    "M187/Evaluate Components.md",
+    "M187/BIOS und UEFI.md",
+    "Lernziele/M319.md",
+    "Modules Overview/M320 Objektorientiertes Programmieren.md",
+    "Modules Overview/M319 Applikationen entwerfen und implementieren.md",
+    "M320/Object oriented programming 1.md",
+    "Object oriented into.canvas",
+    "M320",
+    "M231",
+    "C sharp/Data Types.md",
+    "M293",
+    "Untitled 1.md",
+    "test.md",
+    "_assets/Pasted image 20240920130016.png",
+    "_assets/Pasted image 20240920092204.png",
+    "_assets/Pasted image 20240920092037.png",
+    "_assets/Pasted image 20240920091947.png",
+    "_assets/Pasted image 20240920081356.png",
+    "_assets/Pasted image 20240919135615.png",
+    "_assets/Pasted image 20240919133329.png",
+    "_assets/Pasted image 20240919132910.png",
+    "_assets/Pasted image 20240919112741.png",
+    "_assets/Pasted image 20240919112624.png",
+    "_assets/187_2024_Tagesplanung_1T.pdf",
+    "M187",
+    "M319/Documents",
+    "Lernziele",
+    "M319",
+    "Mathematik",
+    "Templates"
+  ]
+}
